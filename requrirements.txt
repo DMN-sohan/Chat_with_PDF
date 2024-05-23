@@ -1,0 +1,7 @@
+langchain-community
+torch
+llama-cpp-python
+pypdf
+langchain-text-splitters
+langchain_huggingface
+sentence_transformers
