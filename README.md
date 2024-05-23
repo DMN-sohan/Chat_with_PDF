@@ -56,3 +56,10 @@ Run the Interaction Loop: Users can ask questions, and the system provides accur
 Usage
 
 Simply run the script, and interact with the system by asking questions about the document. The model will fetch and display relevant answers, demonstrating the power of LLMs in understanding and processing large texts.
+------------------
+
+Install Requirements
+
+```
+pip install -r requirements.txt
+```
